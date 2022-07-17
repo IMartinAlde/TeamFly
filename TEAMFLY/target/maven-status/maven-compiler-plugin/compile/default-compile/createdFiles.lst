@@ -1,0 +1,5 @@
+database\ViajeDB.class
+config\DBConn.class
+controller\PasajesController.class
+model\Pasajero.class
+model\Vuelo.class
